@@ -1,4 +1,4 @@
-import classes from './notification.module.css';
+import classes from './Notification.module.css';
 import ReactDOM from 'react-dom';
 
 function Notification(props) {
